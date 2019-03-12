@@ -1,0 +1,2 @@
+# Python3spider
+使用python3的爬虫对豆瓣电影影评进行爬取并生成词云
